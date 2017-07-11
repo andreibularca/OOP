@@ -1,0 +1,6 @@
+D:\Pentalog\Practica Vara\OOP\OOP\bin\Debug\OOP.exe.config
+D:\Pentalog\Practica Vara\OOP\OOP\bin\Debug\OOP.exe
+D:\Pentalog\Practica Vara\OOP\OOP\bin\Debug\OOP.pdb
+D:\Pentalog\Practica Vara\OOP\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache
+D:\Pentalog\Practica Vara\OOP\OOP\obj\Debug\OOP.exe
+D:\Pentalog\Practica Vara\OOP\OOP\obj\Debug\OOP.pdb
